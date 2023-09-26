@@ -1,7 +1,9 @@
-<script>
+<script lang="ts">
 	import { fly } from 'svelte/transition';
 	import { onMount } from 'svelte';
+
 	let visible = false;
+
 	onMount(() => (visible = true));
 </script>
 

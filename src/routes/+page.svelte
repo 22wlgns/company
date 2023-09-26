@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import Logo from "$lib/components/index/Logo.svelte";
     import Slack from "$lib/components/index/Slack.svelte";
     import {onMount} from "svelte";

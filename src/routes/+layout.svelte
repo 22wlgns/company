@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import './styles.css';
     import Sidebar from "$lib/components/sidebar/Sidebar.svelte";
     import { page } from '$app/stores';
